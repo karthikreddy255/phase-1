@@ -1,0 +1,43 @@
+{
+  "profile":{
+    "image":"images/4.jpg",
+    "name":"karthik",
+    "design":"biker",
+    "mobile":"9505390925",
+    "email":"karthik25@gmail.com"
+  },
+  "carrer":{
+  "info":"love to ride the bike"
+},
+"education":
+  [
+    {
+  "qualification":"B.Tech",
+  "institute":"mits",
+  "percentage":"75",
+  "yop":"2021"
+},
+{
+  "qualification":"inter",
+  "institute":"sctc",
+  "percentage":"80",
+  "yop":"2017"
+},
+{
+  "qualification":"ssc",
+  "institute":"scts",
+  "percentage":"85",
+  "yop":"2015"
+}
+],
+"skills":[
+  {
+  "name":"webTechnologies",
+  "info":["HTML","CSS","js"]
+},
+{
+  "name":"database",
+  "info":["jdbc","firebase","sqllite"]
+}
+]
+}
